@@ -19,8 +19,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/*removed redundant .header h1 blocking text color change in header*/
+.seo {
     color: #d9dcd6;
 }
 
